@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_instantnoodlep.mk
+    $(LOCAL_DIR)/lineage_avicii.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_instantnoodlep-user \
-    lineage_instantnoodlep-userdebug \
-    lineage_instantnoodlep-eng
+    lineage_avicii-user \
+    lineage_avicii-userdebug \
+    lineage_avicii-eng
